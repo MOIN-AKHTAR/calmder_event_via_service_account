@@ -1,0 +1,16 @@
+{
+  "name": "google_calander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0"
+  }
+}
